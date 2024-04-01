@@ -15,3 +15,6 @@ greet("John");
 
 // Example usage of the square function
 console.log("Square of 5:", square(5));
+
+const colors = ["red", "green", "blue"];
+const firstColor = colors[0]; // firstColor will be "red"
